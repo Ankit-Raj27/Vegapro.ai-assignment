@@ -4,7 +4,8 @@ A full-stack Todo application built with **React**, **Express.js**, **PostgreSQL
 
 ---
 
-![Uploading Capture.JPG…]()
+![Capture](https://github.com/user-attachments/assets/46bdd8f5-8442-4e74-9313-f8a3b1441f84)
+
 
 
 
