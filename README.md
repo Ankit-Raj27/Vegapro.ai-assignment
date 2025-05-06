@@ -1,14 +1,8 @@
-# 📝 Vegapro.ai Todo App
+#  Vegapro.ai Todo App
 
 A full-stack Todo application built with **React**, **Express.js**, **PostgreSQL**, and **Tailwind CSS**. Users can add, view, update, and delete tasks.
 
 ---
-
-![Capture](https://github.com/user-attachments/assets/46bdd8f5-8442-4e74-9313-f8a3b1441f84)
-
-
-
-
 
 ##  Features
 
