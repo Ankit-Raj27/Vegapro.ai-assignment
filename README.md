@@ -2,6 +2,9 @@
 
 A full-stack Todo application built with **React**, **Express.js**, **PostgreSQL**, and **Tailwind CSS**. Users can add, view, update, and delete tasks.
 
+![Capture](https://github.com/user-attachments/assets/be8d8d0d-0292-4c27-96fd-3b1978c00e09)
+
+
 ---
 
 ##  Features
